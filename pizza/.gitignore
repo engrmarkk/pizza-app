@@ -1,6 +1,0 @@
-# created by virtualenv automatically
-env/
-instance/
-__pycache__
-*pyc
-.DS_Store
