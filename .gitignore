@@ -5,3 +5,5 @@ __pycache__
 *pyc
 .DS_Store
 .gitignore
+config.bat
+node_modules
